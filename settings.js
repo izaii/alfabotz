@@ -12,25 +12,25 @@ global.APIKeys = {
 }
 
 global.self_mode = false
-global.autobio = true
-global.msg_connected = false
+global.autobio = false
+global.msg_connected = true
 global.user_register = false
 global.anti_delete = false
-global.anticall = false
+global.anticall = true
 global.auto_welcome_msg = true
 global.auto_leave_msg = true
 global.prefix = "."
 global.language = "ind"
-global.ownerNumberr = "62887435047326"
-global.ownerbot = ['62887435047326@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.botname = "Alphabot"
-global.thumb = "thumbnail_1.jpg"
-global.thumbnail ="thumbnail_2_1.jpg"
-global.fakethumb ="thumbnail_1.jpg"
+global.ownerNumberr = "6285865462352"
+global.ownerbot = ['62895808168700@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
+global.ownername = "Arif Fd"
+global.botname = "Faiz"
+global.thumb = "Faiz.jpg"
+global.thumbnail ="Faiz.jpg"
+global.fakethumb ="Faiz.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.fake = "「  FAIZ - BOT  」\nCreated By ARIF"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
